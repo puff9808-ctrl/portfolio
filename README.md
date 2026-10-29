@@ -27,6 +27,10 @@ No npm install, build step, API key, or backend is required. Google Fonts loads 
 
 The résumé and portrait are stored locally in `assets/`. Project cards link to the PDF Summarizer and AI Resume Checker repositories; the resume checker card also links to its live demo.
 
+## Deploy to Vercel
+
+Set the Vercel project **Root Directory** to the folder containing `index.html` and the `assets/` directory (`portfolio-main/` in this repository). Make sure `assets/gowtham-portrait.jpg` is committed and included in the deployment. The portrait uses a root-relative URL, so it is served from `/assets/gowtham-portrait.jpg`.
+
 ## Project structure
 
 ```text

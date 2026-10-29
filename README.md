@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-homie8.vercel.app/"><strong>🌐 View Live Portfolio</strong></a>
+  <a href="https://portfolio-nine-taupe-ytcjgd3bnp.vercel.app/"><strong>🌐 View Live Portfolio</strong></a>
   &nbsp; • &nbsp;
   <a href="https://github.com/puff9808-ctrl/portfolio"><strong>💻 GitHub Repository</strong></a>
 </p>
